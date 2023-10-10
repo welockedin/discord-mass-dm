@@ -1,5 +1,3 @@
-Thank you for buying Medusar!
-
-Put your discord user token in config.json
-
-To whitelist users add their user ID's in whitelist.txt
+# medusar mass dm
+put your discord token in the **config.json** file
+next up you can whitelist users pasting their **Discord ID** in the **whitelist.txt** file
